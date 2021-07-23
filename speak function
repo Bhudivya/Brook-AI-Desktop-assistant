@@ -1,0 +1,5 @@
+def speak(audio):
+
+engine.say(audio) 
+
+engine.runAndWait() #Without this command, speech will not be audible to us.
